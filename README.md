@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Connect with Your Name on [LinkedIn](https://linkedin.com/in/safhanafarha786) or [GitHub](https://github.com/Safhanafarha775).
+Connect Safhana Farhath on [LinkedIn](https://linkedin.com/in/safhanafarha786) or [GitHub](https://github.com/Safhanafarha775).
