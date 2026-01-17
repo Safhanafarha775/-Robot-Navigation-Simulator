@@ -1,4 +1,4 @@
-# -Robot-Navigation-Simulator
+# Robot-Navigation-Simulator
 A Python simulation of autonomous robot navigation using pathfinding algorithms (BFS, A*, Dijkstra) with animated visualizations.
 
 Clone the repository:
@@ -17,7 +17,7 @@ Clone the repository:
 
 To run the interactive Colab notebook and generate all visualizations and animations:
 
-1. Open the `Robot_Navigation_Simulator.ipynb` file in Google Colab.
+1. Open the `Robot_Navigation.ipynb` file in Google Colab.
 2. Run all cells (`Runtime -> Run all`).
 
 ### Generated Outputs
@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Connect with Your Name on [LinkedIn](https://linkedin.com/in/Safhanafarha775) or [GitHub](https://github.com/Safhanafarha775).
+Connect with Your Name on [LinkedIn](https://linkedin.com/in/safhanafarha786) or [GitHub](https://github.com/Safhanafarha775).
